@@ -1,3 +1,0 @@
-Il passo successivo è implementare la funzionalità mancante scrivendo **il minimo indispensabile** per far superare il test il più velocemente possibile. L’ideale sarebbe intorno alle 5 linee di codice, includendo soltanto ciò che serve.
-Quando il test passa, viene di solito visualizzata una barra verde – “green”.
-Non preoccuparti se il codice che hai scritto **non è perfetto** o se pensi che sia migliorabile. Una volta che il test viene eseguito con successo puoi procedere mediante refactoring, modificando la tua implementazione.

@@ -1,0 +1,2 @@
+Successivamente ai test si implementa la funzionalità mancante scrivendo **il minimo indispensabile** per far superare il test il più velocemente possibile.
+Una volta che il test viene eseguito con successo si può procedere mediante [[Refactor |refactoring]], modificando l'implementazione.
