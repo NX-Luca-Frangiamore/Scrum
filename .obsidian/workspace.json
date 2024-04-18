@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artifacts/Commitment/Product Goal.md",
+                "file": "CI CD/CI_CD.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artifacts/Commitment/Product Goal.md",
+                "file": "CI CD/CI_CD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artifacts/Commitment/Product Goal.md",
+                "file": "CI CD/CI_CD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artifacts/Commitment/Product Goal.md"
+                "file": "CI CD/CI_CD.md"
               }
             }
           },
@@ -166,6 +166,11 @@
   },
   "active": "bd1f997c094c92df",
   "lastOpenFiles": [
+    "Artifacts/Commitment/Product Goal.md",
+    "Test/Automated Test/Unit Test.md",
+    "Test/Automated Test/Unit vs Integration Test.md",
+    "Test/Automated Test/Integration Test.md",
+    "Test/Automated Test",
     "Artifacts/Increment.md",
     "CI CD/Continuous Integration/Continuous Integration.md",
     "CI CD/CI_CD.md",
@@ -188,12 +193,8 @@
     "Risk Management.md",
     "Collaboration and Communication.md",
     "Optimizing Flow.md",
-    "Empiricism/Empiricism.md",
-    "Empiricism/Adaptation.md",
-    "Empiricism/Inspection.md",
     "utils/Pasted image 20240418152043.png",
     "utils/1_tHfjTTyu4zjMQTEMSRU2Mg.webp",
-    "Test/Test Driven Development/Fasi TDD/Write-Correct Code(Green).md",
     "Test/Test Driven Development/Fasi TDD",
     "utils/Pasted image 20240418161747.png",
     "utils/Pasted image 20240418161620.png",
@@ -211,7 +212,6 @@
     "CI CD/Continuos delivery",
     "CI CD",
     "Optimizing flow",
-    "CI/Continuous Integration",
     "Untitled.canvas"
   ]
 }

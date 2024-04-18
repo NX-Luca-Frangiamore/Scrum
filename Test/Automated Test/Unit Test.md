@@ -1,0 +1,1 @@
+É il metodo di test del codice che prevede di testare singole unità di codice, verificando il risultato ottenuto rispetto a quelli previsti. L’obiettivo principale del test unitario è identificare, analizzare e correggere i difetti in ciascuna unità isolandola dal sistema.
