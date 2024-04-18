@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SCRUM.md",
+                "file": "Empiricism/Adaptation.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SCRUM.md",
+                "file": "Empiricism/Adaptation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SCRUM.md",
+                "file": "Empiricism/Adaptation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SCRUM.md"
+                "file": "Empiricism/Adaptation.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -165,6 +165,17 @@
   },
   "active": "c61e098b3e2cf223",
   "lastOpenFiles": [
+    "Empiricism/Empiricism.md",
+    "Empiricism/Inspection.md",
+    "Artifacts/Increment.md",
+    "CI CD/CI_CD.md",
+    "SCRUM.md",
+    "CI CD/Continuous Integration/Continuous Integration Environment.md",
+    "CI CD/Continuous Integration/Continuous Integration.md",
+    "CI CD/Continuous Integration/Code Quality Metrics.md",
+    "CI CD/Continuous Integration/Build Automation.md",
+    "CI CD/Continuous Integration/Automated Testing.md",
+    "CI CD/Continuos delivery/Continuos Delivery.md",
     "utils/Pasted image 20240418152043.png",
     "utils/1_tHfjTTyu4zjMQTEMSRU2Mg.webp",
     "Test/Test Driven Development/Fasi TDD/Write-Correct Code(Green).md",
@@ -180,9 +191,6 @@
     "Agile/Waterfall.md",
     "Agile/Agile.md",
     "Agile",
-    "Empiricism/Empiricism.md",
-    "SCRUM.md",
-    "Empiricism/Inspection.md",
     "Empiricism/Transparency.md",
     "Empiricism/Adaptation.md",
     "Events/Sprint Review.md",
@@ -190,13 +198,6 @@
     "Events/Sprint Planning.md",
     "Events/Sprint.md",
     "Events/Events.md",
-    "Events/Daily Scrum.md",
-    "Optimizing flow/Kanban.md",
-    "Optimizing flow/Definition of Workflow.md",
-    "Optimizing flow/Active Management of Work Items.md",
-    "Self Managing.md",
-    "Collaboration and Communication.md",
-    "Risk Management.md",
     "utils/Kanban Board One Card.webp",
     "utils/Pasted image 20240417165653.png",
     "Test/Test Driven Development/Cicli TDD",
@@ -209,7 +210,6 @@
     "CI CD/Continuos delivery",
     "CI CD",
     "Optimizing flow",
-    "utils/Pasted image 20240418115757.png",
     "CI/Continuous Integration",
     "Untitled.canvas"
   ]
