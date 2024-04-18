@@ -3,7 +3,7 @@
 
 [CI vs CD](https://www.redhat.com/it/topics/devops/what-is-ci-cd)![[Pasted image 20240417165653.png]]
 
-La sigla CI/CD indica l'integrazione e la distribuzione continue, il cui scopo è semplificare e accelerare il ciclo di sviluppo dei software.
+La sigla  CI/CD indica [[Continuous Integration]] e la [[Continuos Delivery]], il cui scopo è semplificare e accelerare il ciclo di sviluppo dei software.
 
 Pipeline CI/CD
 ![[Pasted image 20240418132551.png]]
