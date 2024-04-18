@@ -1,5 +1,5 @@
 In questi eventi l'obbiettivo primario e permettere la comunicazione tra lo [[Scrum Team]].
-In ogni evento si attua la [[Transparency]] e [[Adaptation]] del [[Empiricism]]
+In ogni evento si attua la [[Transparency]] e [[Adaptation]] del [[Empiricism]] definiti nel [[Empiricism]]
 Gli eventi sono a cadenza fissa per diminuire la complessità.
 
 - [[Sprint]]: è l'evento che ingloba gli altri 4

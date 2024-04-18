@@ -1,0 +1,1 @@
+È un ambiente in cui sono stati realizzati processi di monitoraggio, testing e build automatici, in modo da assicurare che le varie modifiche apportate da un [[Developers]] non intacchino il lavoro di altri.

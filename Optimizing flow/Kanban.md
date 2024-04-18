@@ -14,4 +14,6 @@ Le pratiche utilizzate sono:
 - [[Visualization of the Workflow]]
 - Limite [[WIP]]
 - Gestione items in progress([[Active Management of Work Items]])
-- Ispezione e adattamento [[Definition of Workflow]]
+- Ispezione e adattamento [[Definition of Workflow]] 
+
+ ![[Kanban Board One Card.webp]]
