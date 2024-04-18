@@ -1,0 +1,3 @@
+L'ottimizzazione del flow è uno dei concetti fondamentali dei [[SCRUM]], per questo motivo lo [[Scrum Team]] sfrutta e integra [[Kanban]] per fare in modo da generare [[Increment]].
+L'ottimizzazione del flow aiuta a ridurre quegli impedimenti temporali che posso sorgere durante uno [[Sprint]].
+Gli [[Events]] si integrano perfettamente in questo concetto, in quanto permettono di rimuovere quegli impedimenti che il team può trovare, migliorando il flusso di lavoro, adattando e migliorando man mano la [[Definition of Workflow]].

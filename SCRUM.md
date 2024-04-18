@@ -13,4 +13,8 @@ Gestione dei rischi->[[Risk Management]]
 Auto Gestione->[[Self Managing]]
 CI/CD->[[CI_CD]]
 Continues Quality->[Continues quality](https://www.linkedin.com/pulse/what-continuous-quality-improvement-cqi-healthcare-edith-bett/) [Continues quality](https://www.atlassian.com/it/agile/project-management/continuous-improvement)
+<<<<<<< HEAD
 prova
+=======
+Optimizing flow ->[[Optimizing flow]]
+>>>>>>> 75af70be7a3342008426db4f80632c50465b9e6b
