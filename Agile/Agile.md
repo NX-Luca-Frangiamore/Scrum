@@ -1,0 +1,4 @@
+La metodologia agile è un approccio di gestione dei progetti che mette l'accento alla collaborazione, miglioramento continuo e [[Self Managing]].
+Le metodologie agili sono definite al interno del Manifesto Agile, [composto da valori e principi](https://aulab.it/metodologia-agile).
+L'agile è una metodologia incentrata sul cambiamento e al adattamento, nasce in risposta all'approccio [[Waterfall]].  
+L'Agile promuove il coinvolgimento del cliente([[Stakeholders]]) durante tutto il processo di sviluppo. Ciò significa che i requisiti possono essere adattati e modificati in base al feedback del cliente, consentendo di soddisfare meglio le sue esigenze in evoluzione. Nel modello [[Waterfall]], invece, il coinvolgimento del cliente è spesso limitato alla fase iniziale di definizione dei requisiti.

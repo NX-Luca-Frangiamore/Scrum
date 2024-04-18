@@ -1,0 +1,3 @@
+L'approccio waterfall è un modello in cui la fine di un attività e l'input per la successiva, non vi è nessuna sovrapposizione tra le fasi, cio significa che le varie fasi sono ben definite e sequenziali rendo la struttura rigida. 
+In contrasto all'approccio rigido del waterfall vi sono le metodologie [[Agile]] che mettono in risalto un approccio più flessibile.
+![[Pasted image 20240418160928.jpg]]

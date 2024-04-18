@@ -1,2 +1,2 @@
 Il secondo pilastro si basa sul ispezionare lo stato attuale ([[Transparency]]) in modo da identificare possibili problemi, agendo di conseguenza([[Adaptation]]).
-Scrum applica questo concetto con [[Events]]
+[[Scrum]] attua questo principio nei vari [[Events]], in modo da poter adattare il flusso di lavoro in risposta a problemi o limitazioni.
