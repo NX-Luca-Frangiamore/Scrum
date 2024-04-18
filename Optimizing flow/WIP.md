@@ -1,0 +1,2 @@
+WIP indica il numero di attività in progress, lo [[Scrum Team]] deve esplicitamente definire un limite massimo, in modo da aumentare [[Transparency]], una volta definito il team deve sforzarsi di restare di rispettare il limite.
+Il limite WIP permette in oltre di attuare il sistema **Pull system**,il quale ci assicura che un attività venga iniziata soltanto se lo [[Scrum Team]] è in grado di portarla a termine.

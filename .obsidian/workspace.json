@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0fbfe5f6555df9a7",
+        "id": "1f7ba60bb98801aa",
         "type": "tabs",
         "children": [
           {
-            "id": "cadabfa969936888",
+            "id": "1bc98824340d1a41",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/app.json",
-                "staged": false
+                "file": "Optimizing flow/Kanban.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -69,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 283.5
   },
   "right": {
     "id": "c2c0864cd857e053",
@@ -85,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Optimizing flow/Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Optimizing flow/Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Optimizing flow/Kanban.md"
+              }
             }
           },
           {
@@ -142,11 +147,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,36 +164,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c901a2c9e52169dc",
+  "active": "1bc98824340d1a41",
   "lastOpenFiles": [
+    "Optimizing flow/Optimizing flow.md",
     "SCRUM.md",
+    "Self Managing.md",
     "Risk Management.md",
+    "Optimizing flow/Active Management of Work Items.md",
+    "Optimizing flow/Visualization of the Workflow.md",
+    "Optimizing flow/Kanban.md",
+    "Optimizing flow/Definition of Workflow.md",
+    "Events/Sprint.md",
+    "Optimizing flow/WIP.md",
+    "CI/Continuous Integration/Continuous Integration Environment.md",
+    "CI/Continuous Integration/Continuous Integration.md",
+    "CI/Continuous Integration/Collaboration and Communication.md",
+    "CI/Continuous Integration/Code Quality Metrics.md",
+    "CI/Continuous Integration/Build Automation.md",
+    "CI/Continuous Integration/Automated Testing.md",
+    "Empiricism/Empiricism.md",
+    "Optimizing flow",
+    "utils/Pasted image 20240418115757.png",
+    "CI/Continuous Integration",
     "utils/SprintGoal_Product_Goal_ProductVision.png",
     "Empiricism/Adaptation.md",
     "Events/Sprint Retrospective.md",
     "Events/Sprint Planning.md",
-    "Events/Sprint.md",
     "Events/Events.md",
     "Events/Daily Scrum.md",
     "Empiricism/Transparency.md",
     "Empiricism/Inspection.md",
-    "Empiricism/Empiricism.md",
     "Events/Sprint Review.md",
     "Scrum team/Developers.md",
-    "Scrum team/Product Owner.md",
-    "Scrum team/Scrum Master.md",
-    "Scrum team/Scrum Team.md",
-    "Scrum team/Stakeholders.md",
     "utils/Pasted image 20240417165653.png",
-    "Self Managing.md",
-    "Artifacts/Commitment/DONE.md",
-    "CI/CI_CD.md",
     "CI",
-    "Scrum team/Accountabilities.md",
-    "Team.md",
-    "Artifacts/Artifacts.md",
-    "Artifacts/Product Backlog.md",
-    "2024-04-17.md",
     "Untitled.canvas",
     "Artifacts/Commitment",
     "Scrum team",
