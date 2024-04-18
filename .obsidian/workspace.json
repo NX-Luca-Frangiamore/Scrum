@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2d55e51eb591fd09",
+        "id": "33efd6ea81f40e10",
         "type": "tabs",
         "children": [
           {
-            "id": "c61e098b3e2cf223",
+            "id": "bd1f997c094c92df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Empiricism/Adaptation.md",
+                "file": "Artifacts/Commitment/Product Goal.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Empiricism/Adaptation.md",
+                "file": "Artifacts/Commitment/Product Goal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,8 +104,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Empiricism/Adaptation.md",
-                "linksCollapsed": true,
+                "file": "Artifacts/Commitment/Product Goal.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Empiricism/Adaptation.md"
+                "file": "Artifacts/Commitment/Product Goal.md"
               }
             }
           },
@@ -163,41 +164,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c61e098b3e2cf223",
+  "active": "bd1f997c094c92df",
   "lastOpenFiles": [
-    "Empiricism/Empiricism.md",
-    "Empiricism/Inspection.md",
     "Artifacts/Increment.md",
-    "CI CD/CI_CD.md",
-    "SCRUM.md",
-    "CI CD/Continuous Integration/Continuous Integration Environment.md",
     "CI CD/Continuous Integration/Continuous Integration.md",
+    "CI CD/CI_CD.md",
+    "[Continuous Integration.md",
+    "CI CD/Continuous Integration/Continuous Integration Environment.md",
     "CI CD/Continuous Integration/Code Quality Metrics.md",
     "CI CD/Continuous Integration/Build Automation.md",
     "CI CD/Continuous Integration/Automated Testing.md",
     "CI CD/Continuos delivery/Continuos Delivery.md",
+    "Agile/Waterfall.md",
+    "Agile/Agile.md",
+    "Optimizing flow/WIP.md",
+    "Optimizing flow/Visualization of the Workflow.md",
+    "Optimizing flow/Optimizing flow.md",
+    "Optimizing flow/Kanban.md",
+    "Optimizing flow/Definition of Workflow.md",
+    "Optimizing flow/Active Management of Work Items.md",
+    "Self Managing.md",
+    "SCRUM.md",
+    "Risk Management.md",
+    "Collaboration and Communication.md",
+    "Optimizing Flow.md",
+    "Empiricism/Empiricism.md",
+    "Empiricism/Adaptation.md",
+    "Empiricism/Inspection.md",
     "utils/Pasted image 20240418152043.png",
     "utils/1_tHfjTTyu4zjMQTEMSRU2Mg.webp",
     "Test/Test Driven Development/Fasi TDD/Write-Correct Code(Green).md",
-    "Test/Test Driven Development/Fasi TDD/Refactor.md",
-    "Test/Test Driven Development/Fasi TDD/Fasi TDD.md",
-    "Test/Test Driven Development/Fasi TDD/Develop Test(Red).md",
     "Test/Test Driven Development/Fasi TDD",
-    "Test/TDD vs TFD.md",
-    "Optimizing Flow.md",
     "utils/Pasted image 20240418161747.png",
     "utils/Pasted image 20240418161620.png",
     "utils/Pasted image 20240418160928.jpg",
-    "Agile/Waterfall.md",
-    "Agile/Agile.md",
     "Agile",
-    "Empiricism/Transparency.md",
-    "Empiricism/Adaptation.md",
-    "Events/Sprint Review.md",
-    "Events/Sprint Retrospective.md",
-    "Events/Sprint Planning.md",
-    "Events/Sprint.md",
-    "Events/Events.md",
     "utils/Kanban Board One Card.webp",
     "utils/Pasted image 20240417165653.png",
     "Test/Test Driven Development/Cicli TDD",
