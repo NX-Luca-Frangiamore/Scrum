@@ -1,0 +1,2 @@
+Si parte pensando a una piccola sezione di programma che si vuole sviluppare e al corrispettivo test che deve fallire fino a quando la funzionalità non è stata implementata correttamente.
+Sembra strano e controintuitivo, ma dobbiamo cominciare a scrivere codice a partire dal test, **facendolo fallire** – dato che non abbiamo ancora scritto l’implementazione della funzionalità stessa.
