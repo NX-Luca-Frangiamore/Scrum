@@ -11,8 +11,10 @@
             "id": "7f6e90091d83edb7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "utils/SprintGoal_Product_Goal_ProductVision.png"
+              }
             }
           }
         ],
@@ -82,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "utils/SprintGoal_Product_Goal_ProductVision.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "utils/SprintGoal_Product_Goal_ProductVision.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "utils/SprintGoal_Product_Goal_ProductVision.png"
+              }
             }
           },
           {
@@ -155,15 +161,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f6e90091d83edb7",
+  "active": "c901a2c9e52169dc",
   "lastOpenFiles": [
+    "utils/Pasted image 20240418132551.png",
     "CI CD/CI_CD.md",
     "CI/CI CD.md",
-    "Pasted image 20240418132551.png",
     "Collaboration and Communication.md",
     "CI CD/Continuos delivery/Continuos Delivery.md",
-    "Pasted image 20240418120520.png",
-    "Pasted image 20240418120516.png",
+    "utils/Pasted image 20240418120520.png",
+    "utils/Pasted image 20240418120516.png",
     "CI CD/Continuous Integration/Build Automation.md",
     "CI CD/Continuos delivery",
     "CI CD/Continuous Integration/Continuous Integration.md",
