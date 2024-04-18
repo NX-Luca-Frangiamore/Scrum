@@ -4,18 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0fbfe5f6555df9a7",
+        "id": "2026eee0146831bc",
         "type": "tabs",
         "children": [
           {
-            "id": "cadabfa969936888",
+            "id": "7f6e90091d83edb7",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/app.json",
-                "staged": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -142,11 +139,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 348.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,8 +155,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c901a2c9e52169dc",
+  "active": "7f6e90091d83edb7",
   "lastOpenFiles": [
+    "CI CD/CI_CD.md",
+    "CI/CI CD.md",
+    "Pasted image 20240418132551.png",
+    "Collaboration and Communication.md",
+    "CI CD/Continuos delivery/Continuos Delivery.md",
+    "Pasted image 20240418120520.png",
+    "Pasted image 20240418120516.png",
+    "CI CD/Continuous Integration/Build Automation.md",
+    "CI CD/Continuos delivery",
+    "CI CD/Continuous Integration/Continuous Integration.md",
+    "CI/Continuous Integration/Continuous Integration Environment.md",
+    "CI/Continuous Integration/Collaboration and Communication.md",
+    "CI CD/Continuous Integration/Code Quality Metrics.md",
     "SCRUM.md",
     "Risk Management.md",
     "utils/SprintGoal_Product_Goal_ProductVision.png",
@@ -177,17 +187,8 @@
     "Scrum team/Product Owner.md",
     "Scrum team/Scrum Master.md",
     "Scrum team/Scrum Team.md",
-    "Scrum team/Stakeholders.md",
     "utils/Pasted image 20240417165653.png",
-    "Self Managing.md",
-    "Artifacts/Commitment/DONE.md",
-    "CI/CI_CD.md",
-    "CI",
-    "Scrum team/Accountabilities.md",
-    "Team.md",
-    "Artifacts/Artifacts.md",
-    "Artifacts/Product Backlog.md",
-    "2024-04-17.md",
+    "CI CD",
     "Untitled.canvas",
     "Artifacts/Commitment",
     "Scrum team",
