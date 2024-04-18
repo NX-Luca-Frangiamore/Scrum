@@ -1,0 +1,2 @@
+Gli [[Unit Test]] sono un livello di test del software in cui vengono testate le singole unità di un software. Al contrario, gli [[Integration Test]] sono dei livelli di test del software in cui le singole unità vengono combinate e testate come gruppo.
+Un’altra differenza l'Unit Test controlla la funzionalità di moduli o unità mentre il l'Integration Test controlla il trasferimento dei dati tra più moduli o unità.

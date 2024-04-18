@@ -1,0 +1,1 @@
+É un tipo di test che combina i singoli moduli e li testa come gruppo, controllando il trasferimento dei dati tra i moduli.
