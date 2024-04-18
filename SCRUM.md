@@ -14,3 +14,4 @@ Uno dei focus del framework scrum è [[Optimizing flow]].
 Auto Gestione->[[Self Managing]]
 CI/CD->[[CI_CD]]
 Continues Quality->[Continues quality](https://www.linkedin.com/pulse/what-continuous-quality-improvement-cqi-healthcare-edith-bett/) [Continues quality](https://www.atlassian.com/it/agile/project-management/continuous-improvement)
+Optimizing flow ->[[Optimizing flow]]

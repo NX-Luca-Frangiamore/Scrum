@@ -1,0 +1,2 @@
+Durante la prima fase si pensa ad una piccola sezione di programma che si vuole sviluppare e al corrispettivo test che deve fallire fino a quando la funzionalità non è stata implementata correttamente.
+Bisogna cominciare a scrivere codice partendo dal test, **facendolo fallire**, dato che non abbiamo ancora scritto l’implementazione della funzionalità stessa.

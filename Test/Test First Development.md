@@ -1,0 +1,3 @@
+Il Test-First Development (TFD) è un approccio che consiste nello scrivere il test per una determinata funzionalità, quindi progettarlo e svilupparlo in un unico passaggio. Con TFD, uno sviluppatore può pensare in anticipo a come testare la funzionalità che desidera implementare.
+Scrivendo prima il test, possono concentrarsi sui risultati attesi piuttosto che sui dettagli di implementazione. Rende più semplice progettare una soluzione chiara ed efficace. 
+Una volta completato lo sviluppo, si esegue il test e si vede se passa o meno. In questo approccio è possibile perfezionare il test in base all'implementazione del codice, ad es. aggiungendo un'asserzione per un comportamento descritto da una nuova classe.
