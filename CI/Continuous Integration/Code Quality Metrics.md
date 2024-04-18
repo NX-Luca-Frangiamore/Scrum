@@ -1,1 +1,0 @@
-Per mantenere la qualità del codice alta si utilizzano strumenti di analisi del codice che lo analizzano cercando potenziali problemi o vulnerabilità; analizzano prolemi comuni come code smell, duplication e complessità. Aderendo
