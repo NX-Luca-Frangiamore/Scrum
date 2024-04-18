@@ -11,11 +11,10 @@
             "id": "cadabfa969936888",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "SCRUM.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/app.json",
+                "staged": false
               }
             }
           }
@@ -86,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SCRUM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SCRUM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,18 +122,31 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SCRUM.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "caf48b8496b42862",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "251b6c71d37dea08",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,8 +158,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cadabfa969936888",
+  "active": "c901a2c9e52169dc",
   "lastOpenFiles": [
+    "SCRUM.md",
     "Risk Management.md",
     "utils/SprintGoal_Product_Goal_ProductVision.png",
     "Empiricism/Adaptation.md",
@@ -168,7 +179,6 @@
     "Scrum team/Scrum Team.md",
     "Scrum team/Stakeholders.md",
     "utils/Pasted image 20240417165653.png",
-    "SCRUM.md",
     "Self Managing.md",
     "Artifacts/Commitment/DONE.md",
     "CI/CI_CD.md",
