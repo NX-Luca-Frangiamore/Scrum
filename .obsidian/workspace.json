@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0fbfe5f6555df9a7",
+        "id": "5d694a055dc410ad",
         "type": "tabs",
         "children": [
           {
-            "id": "cadabfa969936888",
+            "id": "d0f8f0259074ee33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SCRUM.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SCRUM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SCRUM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SCRUM.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -135,8 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,8 +139,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cadabfa969936888",
+  "active": "d0f8f0259074ee33",
   "lastOpenFiles": [
+    "cd ...md",
+    "Optimizing Flow.md",
+    "SCRUM.md",
     "Risk Management.md",
     "utils/SprintGoal_Product_Goal_ProductVision.png",
     "Empiricism/Adaptation.md",
@@ -168,7 +162,6 @@
     "Scrum team/Scrum Team.md",
     "Scrum team/Stakeholders.md",
     "utils/Pasted image 20240417165653.png",
-    "SCRUM.md",
     "Self Managing.md",
     "Artifacts/Commitment/DONE.md",
     "CI/CI_CD.md",
@@ -177,7 +170,6 @@
     "Team.md",
     "Artifacts/Artifacts.md",
     "Artifacts/Product Backlog.md",
-    "2024-04-17.md",
     "Untitled.canvas",
     "Artifacts/Commitment",
     "Scrum team",
