@@ -3,9 +3,9 @@ Con i [test automatici](https://prolifics.com/us/resource-center/specialty-guide
 - Functional Testing
 - [[Unit Test |Unit Testing]]
 - [[Integration Test |Integration Testing]]
-- Smoke Testing
+- [[Smoke Testing]]
 - Non-functional Testing
-- Performance Testing
-- Regression Testing
+- [[Performance Testing]]
+- [[Regression Testing]]
 - Keyword-driven testing
 - Data-driven testing

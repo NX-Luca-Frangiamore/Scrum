@@ -1,0 +1,1 @@
+Sono una serie di test che ci assicurano che i fix effettuati non degradino, facendo ricomparire il problema.

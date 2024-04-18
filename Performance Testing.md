@@ -1,0 +1,1 @@
+Sono una serie di test che ci permette di testare la stabilità e le performance del sistema sotto un determinato carico di lavoro

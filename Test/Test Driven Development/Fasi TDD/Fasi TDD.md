@@ -8,4 +8,4 @@ Il [[Test Driven Development]] è articolato in brevi cicli che costituiscono le
 
 ![[Pasted image 20240418152043.png]]
 
-Ogni volta che si aggiunge una nuova funzionalità bisogna **ripartire** dal “red”, per poi ottenere il “green”, e raggiungere in ultima istanza il “refactor”.
+Ogni volta che si aggiunge una nuova funzionalità bisogna **ripartire** dal “red”, per poi ottenere il “green”, e raggiungere in ultima istanza il “[[refactor]]”.
