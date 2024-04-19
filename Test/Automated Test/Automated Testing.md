@@ -9,3 +9,4 @@ Con i [test automatici](https://prolifics.com/us/resource-center/specialty-guide
 - [[Regression Testing]]
 - Keyword-driven testing
 - Data-driven testing
+Una metodologia che sfrutta i test come mezzo di primario è [[Test Driven Development]].

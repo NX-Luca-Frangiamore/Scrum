@@ -1,2 +1,2 @@
 Stabilizzare il processo di build è fondamentale nella [[CI CD/Continuous Integration/Continuous Integration]], automatizzare la compilazione e le deployment task fanno risparmiare tempo e riducono la probabilità  dell'errore umano. Automatizzando questi step ci si assicura che il software sia buildato costantemente e in modo affidabile in ambienti diversi.
-Inoltre permette al team di gestire progetti più¹ grandi aumentando la produttivitÃ . 
+Inoltre permette al team di gestire progetti più¹ grandi aumentando la produttività . 

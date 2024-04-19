@@ -1,2 +1,2 @@
 Se nella "fase" di [[Inspection]] troviamo qualche deviazione non gradita o problemi di ogni sorta bisogna effettuare degli aggiustamenti, in questo modo evitiamo effetti valanga.
-Il tutto ci è permesso dai primi 2 pilastri del [[Empiricism]] ovvero [[Transparency]] e [[Inspection]]
+Adaptation ci è permesso dai primi 2 pilastri del [[Empiricism]] ovvero [[Transparency]] e [[Inspection]]

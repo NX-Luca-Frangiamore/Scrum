@@ -1,8 +1,8 @@
-Scrum è un framework che si basa sulle metodologie [[Agile]], che permette di generare [[DONE]] in problemi complessi permettendo di adattarsi hai cambiamenti, applicando [[Risk Management]].
+Scrum è un framework che si basa sulle metodologie [[Agile]], che permette di generare [[Increment]] rispettando la definizione di [[DONE]], scrum viene usato in problemi complessi permettendo di adattarsi hai cambiamenti.
 Lo scrum utilizza i pilastri di [[Empiricism]] per dar vita a [[Events]] e a i vari [[Artifacts]]
 Il gruppo di persone che utilizzano i principi scrum si chiama [[Scrum Team]].
 
-Il successo di uno [[Scrum Team]] dipende dal attuazione di valori:
+Il successo di uno [[Scrum Team]] dipende dal attuazione dei valori scrum:
 - Commitment: [[Scrum Team]] si impegna(Commitment) nel [[Product Goal]] e nel supporto del team
 - Focus: Concentrassi sullo sprint in modo da progredire
 - Openness: Aperti alla comunicazione senza paura
