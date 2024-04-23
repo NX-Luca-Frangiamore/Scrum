@@ -13,9 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SCRUM.md",
-                "mode": "preview",
-                "backlinks": true,
+                "file": "Optimizing flow/Visualization of the Workflow.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SCRUM.md",
+                "file": "Optimizing flow/Visualization of the Workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SCRUM.md",
+                "file": "Optimizing flow/Visualization of the Workflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SCRUM.md"
+                "file": "Optimizing flow/Visualization of the Workflow.md"
               }
             }
           },
@@ -167,32 +166,32 @@
   },
   "active": "14b13c563a9bd350",
   "lastOpenFiles": [
-    "Empiricism/Empiricism.md",
-    "Risk Management.md",
-    "SCRUM.md",
-    "Scrum team/Developers.md",
-    "CI CD/Continuous Integration/Continuous Integration Environment.md",
-    "CI CD/Continuous Integration/Code Quality Metrics.md",
-    "CI CD/Continuous Integration/Continuous Integration.md",
-    "CI CD/Continuous Integration/Build Automation.md",
-    "CI CD/CI_CD.md",
-    "CI CD/Continuos delivery/Continuos Delivery.md",
-    "Test/Automated Test/Unit Test.md",
-    "Test/Automated Test/Automated Testing.md",
-    "Test/Smoke Testing.md",
-    "Test/TDD vs TFD.md",
     "Optimizing flow/WIP.md",
-    "Optimizing flow/Visualization of the Workflow.md",
-    "Optimizing flow/Optimizing flow.md",
-    "Optimizing flow/Kanban.md",
-    "Optimizing flow/Definition of Workflow.md",
-    "Optimizing flow/Active Management of Work Items.md",
-    "Self Managing.md",
+    "Test/Test Driven Development/Test Driven Development.md",
+    "Test/Test Driven Development/Fasi TDD/Write-Correct Code(Green).md",
+    "Test/Test Driven Development/Fasi TDD/Refactor.md",
+    "Test/Test Driven Development/Fasi TDD/Fasi TDD.md",
+    "Test/Test Driven Development/Fasi TDD/Develop Test(Red).md",
     "Test/Automated Test/Unit vs Integration Test.md",
+    "Test/Automated Test/Unit Test.md",
+    "Test/Automated Test/Regression Testing.md",
     "Test/Automated Test/Performance Testing.md",
     "Test/Automated Test/Integration Test.md",
-    "Test/Test First Development.md",
-    "Test/Test Driven Development/Fasi TDD/Write-Correct Code(Green).md",
+    "Test/Automated Test/Automated Testing.md",
+    "Scrum team/Stakeholders.md",
+    "Scrum team/Scrum Team.md",
+    "Scrum team/Scrum Master.md",
+    "Scrum team/Product Owner.md",
+    "Scrum team/Accountabilities.md",
+    "Scrum team/Developers.md",
+    "Optimizing flow/Visualization of the Workflow.md",
+    "CI CD/Continuous Integration/Code Quality Metrics.md",
+    "CI CD/Continuous Integration/Build Automation.md",
+    "CI CD/CI_CD.md",
+    "Artifacts/Artifacts.md",
+    "Artifacts/Sprint Backlog.md",
+    "Artifacts/Increment.md",
+    "Artifacts/Product Backlog.md",
     "utils/1_tHfjTTyu4zjMQTEMSRU2Mg.webp",
     "Test/Automated Test",
     "utils/Pasted image 20240418152043.png",

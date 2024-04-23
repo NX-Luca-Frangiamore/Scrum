@@ -1,4 +1,4 @@
-Il product owner è responsabile di massimizzare il valore del prodotto che del [[Scrum Team]]
+Il product owner è responsabile di massimizzare il valore del prodotto.
 È incaricato di gestire il [[Product Backlog]]:
 - Sviluppare e spiegare il [[Product Goal]]
 - Creare , ordinare e chiarire([[Transparency]]) i [[Product Backlog]] items
